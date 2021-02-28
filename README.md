@@ -15,8 +15,8 @@ En el resto de aspectos visuales es bastante similar al ejemplo propuesto en el 
 ## Controles
 
 - Click con el ratón y se va dibujando el perfil generado al unir los puntos por rectas.
-- Cuando el perfil esté completado ENTER para generar y renderizar el sólido de revolución.
-- R en cualquier momento resetea al estado inicial para empezar a dibujar el perfil.
+- Cuando el perfil esté completado, pulsar ENTER para generar y renderizar el sólido de revolución.
+- R en cualquier momento resetea la aplicación para empezar a dibujar el perfil.
 
 ## Referencias y Herramientas
 
