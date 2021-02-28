@@ -1,4 +1,4 @@
-# 3D Render of solid of revolution
+# 3D Render. Solid of revolution
 
 ### Autor: Jonay Suárez Ramírez
 
